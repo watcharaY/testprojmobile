@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">nuunoei</string>
+    <string name="calculate_TH">คำนวน</string>
+    <string name="calculate_EN">Calculate</string>
+</resources>
